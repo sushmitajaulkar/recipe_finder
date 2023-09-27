@@ -1,4 +1,6 @@
 ![Screenshot_of_Task](https://github.com/sushmitajaulkar/recipe_finder/assets/86394207/3061fa55-d1fe-4403-819a-46d3c98b18be)
+https://github.com/sushmitajaulkar/recipe_finder/assets/86394207/6c1cc831-b728-4632-a05c-ccc844f95109
+
 
 # Getting Started with Create React App
 
